@@ -1,6 +1,3 @@
-# WARNING: This repository is no longer maintained :warning:
-
-> This repository will not be updated. The repository will be kept available in read-only mode.
 
 # Predict Wildfire Intensity with Watson Studio Machine Learning
 
@@ -33,9 +30,6 @@ When the reader has completed this Code Pattern, they will understand how to:
 * [Artificial Intelligence](https://medium.com/ibm-data-science-experience): Artificial intelligence can be applied to disparate solution spaces to deliver disruptive technologies.
 * [Node.js](https://nodejs.org/): An asynchronous event driven JavaScript runtime, designed to build scalable applications.
 
-<!--
-# Watch the Video
--->
 
 # Prerequisites
 
@@ -60,7 +54,7 @@ When the reader has completed this Code Pattern, they will understand how to:
 Clone the `predict-wildfires` repository locally. In a terminal, run:
 
 ```
-$ git clone https://github.com/IBM/predict-wildfires
+$ git clone https://github.com/rikar/wildfire
 ```
 
 ### 2. Create Watson Studio services with IBM Cloud
